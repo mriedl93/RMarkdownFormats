@@ -1,0 +1,12 @@
+Package: RMarkdownFormats
+Title: RMardown HTML Fragment with Syntax Highlightin
+Version: 0.1.0
+Authors@R: 
+    person("Markus", "Riedl", , "mriedl93@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6599-4702"))
+Description: Implements a customized version of `html_fragment()` that allows
+    for code highlighting.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
